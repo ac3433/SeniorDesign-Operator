@@ -110,7 +110,11 @@ MonoBehaviour:
   m_MinSize: {x: 711, y: 471}
   m_MaxSize: {x: 18006, y: 14021}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 49
+=======
+  controlID: 134
+>>>>>>> Stashed changes
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -519,7 +523,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: de270000
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 8efbffff00000000
+=======
+    m_ExpandedIDs: 88fbffff00000000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -580,33 +588,47 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
+<<<<<<< Updated upstream
     - Assets/Script/Operator/Map
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/Script/Operator/Map
+=======
+    - Assets/Script/Operator/Controls
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Script/Operator/Controls
+>>>>>>> Stashed changes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Yuki\Documents\GitHub\SeniorDesign-Operator\Sandbox
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: 2e270000
     m_LastClickedID: 10030
     m_ExpandedIDs: 00000000242700004e2700006a27000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: f0270000
+    m_LastClickedID: 10224
+    m_ExpandedIDs: 000000002e270000562700007227000000ca9a3bffffff7f
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Operator
+      m_OriginalName: Operator
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 10098
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 11}
     m_SearchString: 
@@ -620,7 +642,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b41d0000
     m_LastClickedID: 7604
+<<<<<<< Updated upstream
     m_ExpandedIDs: 00000000242700004e270000
+=======
+    m_ExpandedIDs: 000000002e27000056270000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
